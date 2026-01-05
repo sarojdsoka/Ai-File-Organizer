@@ -237,7 +237,8 @@ ai-file-organizer/
 ├── organizer.py      # Main Python script
 ├── organizer.sh      # Bash wrapper
 ├── README.md         # This file
-└── QUICK_START.md    # Quick reference
+├── QUICK_START.md    # Quick reference
+└── LICENSE          # MIT License
 ```
 
 ## 🤝 Contributing
@@ -246,10 +247,29 @@ Feel free to customize categories, add more AI providers, or improve features!
 
 ## 📄 License
 
-Free to use and modify.
+This project is licensed under the **MIT License**.
+
+**What you can do:**
+- ✅ Use commercially
+- ✅ Modify and distribute
+- ✅ Sublicense
+- ✅ Use privately
+
+**Only requirement:**
+- Keep the copyright notice in all copies
+
+See [LICENSE](LICENSE) file for full details.
+
+## 🙏 Acknowledgments
+
+- Groq, OpenAI, Anthropic for AI APIs
+- Python and Bash communities
+- All contributors and users
 
 ---
 
 **Made with ❤️ for clean, organized file systems**
 
-**Location**: `~/Projects/Dev/ai-file-organizer/`
+**License**: MIT  
+**Version**: 2.0  
+**Status**: ✅ Production Ready

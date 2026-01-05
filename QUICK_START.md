@@ -128,8 +128,13 @@ Files are organized into:
 ./organizer.sh --help
 ```
 
-Or see the full documentation: `README.md`
+Or see full documentation: `README.md`
+
+## 📄 License
+
+**MIT License** - Free to use, modify, and distribute!
 
 ---
 
-**Happy Organizing! 🎉**
+**Happy Organizing! 🎉**  
+**License**: MIT | **Version**: 2.0
